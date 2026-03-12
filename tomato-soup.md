@@ -16,3 +16,5 @@
 4. Add tomatoes and broth, bring to a simmer.
 5. Cook 20 minutes, then blend until smooth.
 6. Stir in cream if using, season with salt and pepper.
+
+Some changes
