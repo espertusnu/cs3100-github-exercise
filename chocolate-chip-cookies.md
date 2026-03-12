@@ -9,7 +9,7 @@
 - 3/4 cup brown sugar
 - 2 eggs
 - 2 tsp vanilla extract
-- 2 cups chocolate chips
+- 2 cups chocolate chips [semisweet, milk chocolate, dark chocolate]
 
 ## Instructions
 1. Preheat oven to 375°F.
