@@ -9,7 +9,6 @@
 
 * [Tomato soup](tomato-soup.md)
 
-
 ## Desserts
 
 * [Chocolate chip cookies](chocolate-chip-cookies.md)
