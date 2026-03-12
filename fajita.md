@@ -17,7 +17,7 @@
 
 ## Instructions
 1. Combine chili powder, cumin, smoked paprika, garlic powder, cayenne, salt, and pepper in a small bowl.
-2. Toss chicken strips with lime juice, 1 tbsp olive oil, and the spice mix. Let marinate for at least 15 minutes.
+2. Toss chicken strips with 2 tbsp lime juice, 1 tbsp olive oil, and the spice mix. Let marinate for at least 15 minutes.
 3. Heat 1 tbsp olive oil in a large skillet or cast iron pan over high heat.
 4. Cook chicken strips for 5–6 minutes until charred and cooked through. Remove and set aside.
 5. Add remaining 1 tbsp olive oil to the pan. Sauté peppers and onion for 4–5 minutes until tender-crisp.
