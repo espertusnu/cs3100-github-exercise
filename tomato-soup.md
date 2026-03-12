@@ -6,7 +6,7 @@
 - 3 cloves garlic, minced
 - 2 cups vegetable broth
 - 2 tbsp olive oil
-- 1/2 cup heavy cream (optional)
+- 1/2 cup heavy cream (optional, can be substituted with coconut milk)
 - Salt and pepper to taste
 
 ## Instructions

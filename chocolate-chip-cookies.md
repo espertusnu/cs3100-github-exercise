@@ -4,12 +4,12 @@
 - 2 1/4 cups flour
 - 1 tsp baking soda
 - 1 tsp salt
-- 1 cup butter, softened
+- 1 cup butter, softened (can substitute with plant-based butter)
 - 3/4 cup granulated sugar
 - 3/4 cup brown sugar
 - 2 eggs
 - 2 tsp vanilla extract
-- 2 cups chocolate chips
+- 2 cups chocolate chips (can substitute with dairy-free chocolate chips)
 
 ## Instructions
 1. Preheat oven to 375°F.
