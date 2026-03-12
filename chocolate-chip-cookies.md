@@ -9,7 +9,10 @@
 - 3/4 cup brown sugar
 - 2 eggs
 - 2 tsp vanilla extract
-- 2 cups chocolate chips
+- 2 cups dark chocolate chips
+- semi-sweet milk chocolate 
+- milk chocolate can be a nice treat
+- dark chocolate can be a nice vegan treat
 
 ## Instructions
 1. Preheat oven to 375°F.
