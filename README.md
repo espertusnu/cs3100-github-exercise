@@ -31,7 +31,13 @@
    5. Make any changes they request.
    6. Once they approve it, squash and merge it, and delete the branch. (This only deletes the branch from github, not from your computer.) You may have to deal with merge conflicts.
    7. Make sure the issue is marked closed.
-9. Help your classmates by reviewing pull requests. 
+9. Help your classmates by reviewing pull requests.  
+  
+## Bonus Cartoon
+
+<img width="588" height="511" alt="Meme showing a divider being removed from tanks of Mentos and Coca-Cola. Title is `When you are gonna merge two branches after long time`." src="https://github.com/user-attachments/assets/77b1edb4-25e4-4bba-9586-a058434a8d93" />
+
+
    
 
 
