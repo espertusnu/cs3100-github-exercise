@@ -11,7 +11,7 @@
 - 1 tsp dried thyme
 - Salt and pepper to taste
 - Fresh parsley, chopped (optional)
-- Egg noodles or rice (optional)
+- Egg noodles or rice noodles (optional)
 
 ## Instructions
 1. Place chicken in a large pot and cover with broth or water. Bring to a boil, then reduce heat and simmer until chicken is cooked through, about 45 minutes.
