@@ -11,3 +11,7 @@
 ## Desserts
 
 * [Chocolate chip cookies](chocolate-chip-cookies.md)
+
+## Sides & Dips
+
+* [Guacamole](guacamole.md)
