@@ -3,6 +3,7 @@
 ## Main courses
 
 * [Spaghetti Aglio e Olio](spaghetti-aglio-e-olio.md)
+* [Pohya](pohya.md)
 
 ## Soups
 
