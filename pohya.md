@@ -7,7 +7,7 @@
 - 1 small red onion, chopped
 - 3 cloves garlic, minced
 - 3 ears corn or 2 cups frozen corn (you should only need to buy one bag)
-- 1 cup cranberries
+- 1 cup fresh cranberries
 - 2 eggs
 - kosher salt and pepper, to taste
 - 1/2 cup cornmeal
