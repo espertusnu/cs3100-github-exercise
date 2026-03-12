@@ -7,6 +7,7 @@
 - 1/2 tsp red pepper flakes
 - 1/4 cup fresh parsley, chopped
 - Salt to taste
+-Compattible types include: thin spaghetti (spaghettini), thick spaghetti (spaghettoni), vermicelli, linguine, or even delicate capellini (angel hair)
 
 ## Instructions
 1. Cook spaghetti in salted boiling water until al dente.
