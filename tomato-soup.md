@@ -8,6 +8,7 @@
 - 2 tbsp olive oil
 - 1/2 cup heavy cream (optional)
 - Salt and pepper to taste
+- Spices to taste (optional)
 
 ## Instructions
 1. Heat olive oil in a large pot over medium heat.
