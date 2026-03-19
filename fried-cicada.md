@@ -2,7 +2,7 @@
 
 ## Ingredients
 - 1 lb cicadas, unmolted
-- 1 tsp salt, grinded
+- 1 tsp white salt, grinded
 - 1/4 cup salt, raw
 - 1 cup peanut oil
 - 1 tsp ground sichuan pepper
