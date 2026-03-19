@@ -10,10 +10,13 @@
 - 2 eggs
 - 2 tsp vanilla extract
 - 2 cups chocolate chips
+  - semisweet chips are most common
+  - milk chocolate chips can be a nice treat
+  - dark chocolate chips are often vegan
 
 ## Instructions
 1. Preheat oven to 375°F.
-2. Mix flour, baking soda, and salt in a bowl.
+2. Mix flour, baking soda, and salt in a large bowl.
 3. Cream butter and sugars until fluffy.
 4. Beat eggs and vanilla into butter mixture.
 5. Gradually blend in flour mixture.
