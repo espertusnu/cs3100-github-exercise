@@ -15,8 +15,8 @@
   - dark chocolate chips are often vegan
 
 ## Instructions
-1. Preheat oven to 375°F.
-2. Mix flour, baking soda, and salt in a large bowl.
+1. Preheat oven to 375°F or 190 °C.
+2. Mix flour, baking soda, and salt in a bowl.
 3. Cream butter and sugars until fluffy.
 4. Beat eggs and vanilla into butter mixture.
 5. Gradually blend in flour mixture.
