@@ -1,0 +1,27 @@
+# Bagels
+
+## Ingredients
+- 1 ½ cups warm water (about 110°F)
+- 2 ¼ tsp active dry yeast (one packet)
+- 1 tbsp sugar
+- 4 cups bread flour
+- 2 tsp salt
+- 1 tbsp barley malt syrup or honey (for dough)
+- 2 tbsp barley malt syrup or honey (for boiling)
+- Optional toppings: sesame seeds, poppy seeds, everything seasoning
+
+## Instructions
+1. In a large bowl, combine warm water, yeast, and sugar. Let sit 5 minutes until foamy.
+2. Add flour, salt, and 1 tbsp malt syrup (or honey). Mix until a shaggy dough forms.
+3. Knead on a floured surface for 8–10 minutes until smooth and elastic.
+4. Place dough in a lightly oiled bowl, cover, and let rise 1 hour or until doubled.
+5. Punch down the dough and divide into 8 equal pieces.
+6. Shape each piece into a ball, then poke a hole through the center and stretch gently to form a ring.
+7. Let shaped bagels rest for 10 minutes while you bring a large pot of water to a boil.
+8. Add 2 tbsp malt syrup (or honey) to the boiling water.
+9. Boil bagels 1–2 minutes per side, then transfer to a parchment-lined baking sheet.
+10. Add toppings while bagels are still wet.
+11. Bake at 425°F for 20–22 minutes, until golden brown.
+12. Cool on a wire rack before slicing.
+
+If you want, I can also format variations (cinnamon raisin, whole wheat, jalapeño cheddar) in the same style.

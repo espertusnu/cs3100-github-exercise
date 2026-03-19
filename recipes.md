@@ -5,6 +5,7 @@
 * [Spaghetti Aglio e Olio](spaghetti-aglio-e-olio.md)
 * [Pohya](pohya.md)
 * [NyQuil Chicken](nyquil-chicken.md)
+* [Bagel](bagel.md)
 
 ## Soups
 
@@ -14,3 +15,4 @@
 
 * [Chocolate chip cookies](chocolate-chip-cookies.md)
 * [Root beer float](root-beer-float.md)
+* [Banana bread](banana-bread.md)
