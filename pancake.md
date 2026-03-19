@@ -6,7 +6,7 @@
 - 1/4 cup white sugar
 - Pinch of salt
 - 1 large egg
-- 1 3/4 cups cups milk
+- 1 3/4 cups milk
 - 1 tsp vanilla extract or essence
 - 4 tsp butter
 
