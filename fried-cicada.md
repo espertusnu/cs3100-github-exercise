@@ -15,5 +15,5 @@
 5. Put the cicada into the oil
 6. Fry it golden
 7. Filter the oil and get the cicada out
-8. Put the salt and ground sichuan pepper
+8. Put in the salt and ground sichuan pepper
 9. Mix them by shaking
