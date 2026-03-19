@@ -4,6 +4,7 @@
 
 * [Spaghetti Aglio e Olio](spaghetti-aglio-e-olio.md)
 * [Pohya](pohya.md)
+* [Spaghetti Carbonara](spaghetti-carbonara.md)
 * [NyQuil Chicken](nyquil-chicken.md)
 * [Bagel](bagel.md)
 
