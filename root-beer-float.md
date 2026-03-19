@@ -2,7 +2,7 @@
 
 ## Ingredients
 - Vanilla Ice Cream (4 oz.)
-    - vegan alt: use Soy-based ice cream
+  - Or use 4 oz. plant-based milk (coconut/almond/cashew/soy/oat) or Lactaid milk instead of ice cream for a lactose-free version
 - Root Beer (8 oz.)
 
 ## Instructions
