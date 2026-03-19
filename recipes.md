@@ -11,6 +11,10 @@
 
 * [Tomato soup](tomato-soup.md)
 
+## Sides
+
+* [Plain white rice](plain-white-rice.md)
+
 ## Desserts
 
 * [Chocolate chip cookies](chocolate-chip-cookies.md)
