@@ -5,11 +5,11 @@
 * 2 cups marinara sauce
 * 1 cup ricotta cheese
 * 2 cups shredded mozzarella
-* ¼ cup grated Parmesan
+* 1/4 cup grated Parmesan
 * 1 egg
 * 2 cloves garlic (minced)
 * 1 tsp salt
-* ½ tsp black pepper
+* 1/2 tsp black pepper
 
 ### Directions
 
