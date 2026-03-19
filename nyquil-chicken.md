@@ -1,4 +1,4 @@
-# NqQuil Chicken
+# NyQuil Chicken
 
 ## Ingredients
  - 1 whole chicken
