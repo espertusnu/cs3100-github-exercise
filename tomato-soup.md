@@ -2,12 +2,13 @@
 
 ## Ingredients
 - 2 cans crushed tomatoes
-- 1 onion, diced
+- 1 onion, cubed
 - 3 cloves garlic, minced
 - 2 cups vegetable broth
 - 2 tbsp olive oil
-- 1/2 cup heavy cream (optional)
+- 1/2 cup heavy cream (optional, can be substituted with coconut milk)
 - Salt and pepper to taste
+- Spices to taste (optional)
 
 ## Instructions
 1. Heat olive oil in a large pot over medium heat.
