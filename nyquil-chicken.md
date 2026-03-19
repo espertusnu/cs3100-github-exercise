@@ -1,10 +1,10 @@
 # NyQuil Chicken
 
 ## Ingredients
- - 1 whole chicken
- - 1 cup NyQuil
- - 2 tbsp olive oil
- - 1 tsp salt
+- 1 whole chicken
+- 1 cup NyQuil
+- 2 tbsp olive oil
+- 1 tsp salt
 
 ## Instructions
 1. Preheat oven to 375°F (190°C).
