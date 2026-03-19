@@ -2,7 +2,7 @@
 
 ## Ingredients
 - 2 cans crushed tomatoes
-- 1 onion, diced
+- 1 onion, cubed
 - 3 cloves garlic, minced
 - 2 cups vegetable broth
 - 2 tbsp olive oil
