@@ -4,7 +4,7 @@
 - 2 1/4 cups flour
 - 1 tsp baking soda
 - 1 tsp salt
-- 1 cup butter, softened
+- 1 cup butter, softened (can substitute with plant-based butter)
 - 3/4 cup granulated sugar
 - 3/4 cup brown sugar
 - 2 eggs
@@ -15,7 +15,7 @@
   - dark chocolate chips are often vegan
 
 ## Instructions
-1. Preheat oven to 375°F or 190.56 °C.
+1. Preheat oven to 375°F or 190 °C.
 2. Mix flour, baking soda, and salt in a bowl.
 3. Cream butter and sugars until fluffy.
 4. Beat eggs and vanilla into butter mixture.

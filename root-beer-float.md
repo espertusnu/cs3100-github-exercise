@@ -1,8 +1,8 @@
 # Root Beer Float
 
 ## Ingredients
-- Vanilla Ice Cream
-- Root Beer
+- Vanilla Ice Cream (4 oz.)
+- Root Beer (8 oz.)
 
 ## Instructions
 - Spoon a scoop of vanilla ice cream into tall glass
