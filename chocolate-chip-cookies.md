@@ -10,7 +10,7 @@
 - 2 eggs
 - 2 tsp vanilla extract
 - 2 cups chocolate chips
-  - semisweet chips are most common
+  - semi-sweet chips are most common
   - milk chocolate chips can be a nice treat
   - dark chocolate chips are often vegan
 
