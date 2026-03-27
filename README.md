@@ -31,7 +31,7 @@
    5. Make any changes they request.
    6. Once they approve it, squash and merge it, and delete the branch. (This only deletes the branch from github, not from your computer.) You may have to deal with merge conflicts.
    7. Make sure the issue is marked closed.
-9. Help your classmates by reviewing pull requests.  
+9. Help your classmates by reviewing pull requests.
   
 ## Bonus Cartoon
 

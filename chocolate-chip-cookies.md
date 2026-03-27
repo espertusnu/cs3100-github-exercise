@@ -4,7 +4,7 @@
 - 2 1/4 cups flour
 - 1 tsp baking soda
 - 1 tsp salt
-- 1 cup butter, softened (can substitute with plant-based butter)
+- 1 cup butter, softened (alt. 1 1/2 cup margarine)
 - 3/4 cup granulated sugar
 - 3/4 cup brown sugar
 - 2 eggs
